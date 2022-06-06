@@ -1,2 +1,2 @@
 # simplebank
-Back-end Development Project
+Back-end Development Project using Go, Docker and Postgres.
